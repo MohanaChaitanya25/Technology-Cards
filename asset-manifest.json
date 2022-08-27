@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Technology-Cards/static/css/main.34df0220.chunk.css",
+    "main.js": "/Technology-Cards/static/js/main.e1786607.chunk.js",
+    "main.js.map": "/Technology-Cards/static/js/main.e1786607.chunk.js.map",
+    "runtime-main.js": "/Technology-Cards/static/js/runtime-main.d5637f5c.js",
+    "runtime-main.js.map": "/Technology-Cards/static/js/runtime-main.d5637f5c.js.map",
+    "static/js/2.5120aab1.chunk.js": "/Technology-Cards/static/js/2.5120aab1.chunk.js",
+    "static/js/2.5120aab1.chunk.js.map": "/Technology-Cards/static/js/2.5120aab1.chunk.js.map",
+    "index.html": "/Technology-Cards/index.html",
+    "static/css/main.34df0220.chunk.css.map": "/Technology-Cards/static/css/main.34df0220.chunk.css.map",
+    "static/js/2.5120aab1.chunk.js.LICENSE.txt": "/Technology-Cards/static/js/2.5120aab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5637f5c.js",
+    "static/js/2.5120aab1.chunk.js",
+    "static/css/main.34df0220.chunk.css",
+    "static/js/main.e1786607.chunk.js"
+  ]
+}
